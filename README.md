@@ -78,6 +78,15 @@ python3 bot.py
 </p>
 </details>
 
+<details><summary>Deploy To Railway</summary>
+<p>
+<br>
+<a href="https://railway.app/deploy?template=https://github.com/botac135/EvaMaria-Bot">
+  <img src="https://railway.app/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 
 ## Commands
 ```
