@@ -52,6 +52,8 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WvRgM6?referralCode=qUSTgJ)
+
 [![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AM-ROBOTS/EvaMaria)
 
 
@@ -75,15 +77,6 @@ pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
-</p>
-</details>
-
-<details><summary>Deploy To Railway</summary>
-<p>
-<br>
-<a href="https://railway.app/deploy?template=https://github.com/botac135/EvaMaria-Bot">
-  <img src="https://railway.app/button.svg" alt="Deploy">
-</a>
 </p>
 </details>
 
